@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           Sigma-G
 @namespace      https://github.com/BananaaHammock/Sigma-G
-@version        1.0.3
+@version        1.0.6
 @description    An userstyle for Youtube called Sigma-G
 @author         Catgrills/Katgrills forked by BananaaHammock
 @preprocessor   uso
@@ -101,6 +101,10 @@
 	.bold.yt-formatted-string {
 		font-family: "Roboto Condensed", "ぼくたちのゴシック２ボールド" !important;
 	}
+
+    .ytd-watch-flexy{
+        background: transparent !important;
+    }
 
 	/* HEADER */
 
@@ -2144,5 +2148,5 @@
 }
 .video-extras-sparkbar-likes-extras2-disabled {
    background-color: #2b3d41 !important;
-
+}
 }
