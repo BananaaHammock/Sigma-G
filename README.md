@@ -25,8 +25,7 @@ Instruction
 + for Dolphin : <a href="https://play.google.com/store/apps/details?id=ru.pmmlabs.stylish&amp;hl=en">Stylish</a>
 
 <strong>Step 2 : Install the script </strong>
-+ Via <b>userstyles</b> : <a href="https://userstyles.org/styles/156811/sigma-g-dark-yt-css">Dark theme</a> or <a href="https://userstyles.org/styles/145275/sigma-g-light-yt-css">Light theme</a>
-+ Or directly with <b>Stylus</b> : <a href="https://raw.githubusercontent.com/Catgrills/Sigma-G/master/sigma-g.user.css">click here</a>
++ Directly with <b>Stylus</b> : <a href="https://raw.githubusercontent.com/BananaaHammock/Sigma-G/master/sigma-g.user.css">click here</a>
 
 <strong>Step 3 : Install the font </strong>
 
